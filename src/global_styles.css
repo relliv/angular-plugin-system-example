@@ -1,0 +1,8 @@
+/* Add application styles & imports to this file! */
+html,
+body {
+  font-family: 'Quicksand', sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
